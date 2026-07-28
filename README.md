@@ -7,16 +7,30 @@ Open-source software, ministry workflows, presentation resources, and documentat
 If you've found your way here, chances are you're serving your church in some way—whether you're a pastor, church secretary, worship leader, volunteer, media operator, or simply the person everyone calls when "the computer isn't working."
 
 I've been there.
-For many years I've had the privilege of serving local churches through technology. From a 700 person church in Kansas City Missouri to the local smalltown Gillespie Methodist. 
+For many years I've had the privilege of serving churches of many sizes—from a congregation of more than 700 people in Kansas City, Missouri, to the wonderful small-town family at Gillespie Methodist Church. 
 
 Along the way I discovered something important:
 
 Most churches don't need complicated software.
 They need practical tools that quietly support ministry.
+
 That simple idea became the foundation for everything you'll find here.
 
-## How it started
-In 2025 I wanted to save our church the $600.00 dollars a year they were paying to a small company to send out SMS blasts. I created a Twilio-powered church communications. The memebership directory to feed the ALL-CALL and here we are today. A full-blown workable church manangement system.
+
+## How it all started
+In 2025, our church was spending about $600 each year on a commercial text messaging service.
+
+I wondered...
+
+
+Could we build something ourselves?
+
+
+That simple question led to a Twilio-powered church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
+
+
+What started as one small project has grown into a practical church management platform built by serving a real church with real needs.
+
 
 ## Our Mission
 
@@ -24,15 +38,14 @@ Technology should never become another ministry to manage.
 Instead, it should quietly help churches communicate, organize, worship, and serve their communities.
 Every project here is created with four goals in mind:
 
-•	Make it simple.
-
-•	Make it useful. 
-
-•	Make it affordable. 
-
-•	Make it easy for volunteers.
+- Make it simple.
+- Make it useful. 
+- Make it affordable. 
+- Make it easy for volunteers.
 
 Because ministry is about people—not software.
+
+
 
 ## 🌐 In Ministry Every Week
 
@@ -43,13 +56,17 @@ https://gmc62033.com
 Rather than creating software in isolation, these tools are developed while serving an active local church.
 That means they solve real problems, support real ministries, and continue to improve through everyday use.
 
+
+
 ## Featured Projects
+>
+>⚙️ GMC Operations
+>The core platform for church administration and ministry management.
+>Helping churches organize information, communicate effectively, and reduce administrative workload.
+>
+<br>
 
-⚙️ GMC Operations
-The core platform for church administration and ministry management.
-Helping churches organize information, communicate effectively, and reduce administrative workload.
-
-## 📱 Church SMS Connect - Where it all stated. The "ALL-CALL"
+## 📱 Church SMS Connect - The "ALL-CALL"
 
 Helping churches reach members quickly through simple, reliable text messaging.
 Perfect for:
@@ -63,17 +80,21 @@ Perfect for:
 •	Community announcements 
 
 
+
+  
 ## 📅 Ministry Calendar
 
 A calendar designed around church life.
 Not just events...
 Ministry.
+  <br>
 
 ## 🎈 VBS Manager
-
-Making Vacation Bible School easier for volunteers, teachers, parents, and church offices.
-Because VBS should be about children—not paperwork.
-
+>
+>Making Vacation Bible School easier for volunteers, teachers, parents, and church offices.
+>Because VBS should be about children—not paperwork.
+ > 
+  <br>
 
 ## 🎥 Sunday Service Workflow
 A complete collection of resources for planning and presenting worship services.
@@ -140,11 +161,11 @@ Equip churches with practical technology that simply works.
 Technology changes every year.
 The mission never does.
 
-If these projects help one volunteer feel less overwhelmed...
-
-If they give one pastor more time with people instead of paperwork...
-
-If they help one church reach one more family...
+>If these projects help one volunteer feel less overwhelmed...
+>
+>If they give one pastor more time with people instead of paperwork...
+>
+>If they help one church reach one more family...
 
 **Then every hour spent building them has been worthwhile.**
 
@@ -164,7 +185,14 @@ May God bless your ministry.
 *Soli Deo Gloria*
 "Whatever you do, work heartily, as for the Lord and not for men."
 Colossians 3:23
+
+*"Built in service. Shared with gratitude. Offered for the Church."*
 ________________________________________
 
----
-**All tools are currently in active private development and will be released free to the public!**
+**Coming Soon**
+
+These projects are currently under active development and are being tested in a live church environment.
+
+As they mature, they will be released as open-source resources for churches everywhere.
+
+Thank you for your patience—and thank you for serving your local church.
