@@ -59,12 +59,13 @@ That means they solve real problems, support real ministries, and continue to im
 
 
 ## Featured Projects
+
+⚙️ GMC Operations
+The core platform for church administration and ministry management.
+Helping churches organize information, communicate effectively, and reduce administrative workload.
 >
->⚙️ GMC Operations
->The core platform for church administration and ministry management.
->Helping churches organize information, communicate effectively, and reduce administrative workload.
->
-<br>
+>• These projects are currently under active development and are being tested in a live church environment. • As they mature, they will be released as open-source resources for churches everywhere. • Thank you for your patience—and thank you for serving your local church.
+<p align="center">— ✦ — </p>
 
 ## 📱 Church SMS Connect - The "ALL-CALL"
 
@@ -167,32 +168,31 @@ The mission never does.
 >
 >If they help one church reach one more family...
 
-**Then every hour spent building them has been worthwhile.**
+**Then every hour spent building them has been worthwhile. - "Built in service. Shared with gratitude. Offered for the Church."**
 
 
-________________________________________
+
+
 ## About
-Hi, I'm William.
-I'm a retired Project Manager, church technology volunteer, writer, and lifelong student of practical ministry.
-This organization isn't about creating the biggest church software platform. 
-It's about helping the small and medium-sized churches that faithfully serve their communities every single week.
-If something here helps your church...
-Then it has already fulfilled its purpose.
-Thank you for stopping by.
+<img src="https://github.com/code-gmc/code-gmc/blob/main/ProfileWill.jpg?raw=true" 
+     alt="Will, The Code Monkey" 
+     width="200" 
+     align="left" 
+     style="margin-right: 20px; border-radius: 10px;">
 
-May God bless your ministry.
+Hi, I'm **William** — a retired Project Manager, church technology volunteer, writer, and lifelong student of practical ministry. This organization isn't about creating the biggest church software platform. It's about helping the small and medium-sized churches that faithfully serve their communities every single week.
 
-*Soli Deo Gloria*
-"Whatever you do, work heartily, as for the Lord and not for men."
-Colossians 3:23
+If something here helps your church, then it has already fulfilled its purpose.  
 
-*"Built in service. Shared with gratitude. Offered for the Church."*
-________________________________________
+*May God bless your ministry.*  
 
-**Coming Soon**
 
-These projects are currently under active development and are being tested in a live church environment.
+**Soli Deo Gloria** — "Whatever you do, work heartily, as for the Lord and not for men." (Colossians 3:23)  
 
-As they mature, they will be released as open-source resources for churches everywhere.
 
-Thank you for your patience—and thank you for serving your local church.
+<p align="center">— ✦ —</p>
+
+
+
+
+
