@@ -184,11 +184,9 @@ Hi, I'm **William** — a retired Project Manager, church technology volunteer, 
 
 If something here helps your church, then it has already fulfilled its purpose.  
 
-*May God bless your ministry.*  
+"Whatever you do, work heartily, as for the Lord and not for men." (Colossians 3:23)
 
-
-**Soli Deo Gloria** — "Whatever you do, work heartily, as for the Lord and not for men." (Colossians 3:23)  
-
+*May God bless your ministry.* — **Soli Deo Gloria** 
 
 <p align="center">— ✦ —</p>
 
