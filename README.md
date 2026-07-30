@@ -1,6 +1,5 @@
 ﻿# Welcome to GMC Digital Tools ⛪✨code-gmc
-Building practical technology for churches, ministries, and the volunteers who faithfully serve them.
-Open-source software, ministry workflows, presentation resources, and documentation created to make church technology simpler, more reliable, and easier to share.
+This GitHub organization serves as the public home for GMC Digital Tools, where software, documentation, presentations, workflows, and ministry resources are developed and shared. We believe software is created to help churches serve people—not technology. 
 
 ## Welcome!
 
@@ -29,21 +28,18 @@ Could we build something ourselves?
 That simple question led to a Twilio-powered church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
 
 
-What started as one small project has grown into a practical church management platform built by serving a real church with real needs.
+What began as a simple church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
 
 
-## Our Mission
+## Our Philosophy
+We believe church technology should be understandable.
+- If a volunteer serves one Sunday each month, they should be able to learn it.
+- If a pastor needs information, it should be easy to find.
+- If something fails, good documentation should make recovery possible.
+- Great church technology isn't impressive because it's complicated.
 
-Technology should never become another ministry to manage.
-Instead, it should quietly help churches communicate, organize, worship, and serve their communities.
-Every project here is created with four goals in mind:
+It's valuable because it quietly helps ministry happen.
 
-- Make it simple.
-- Make it useful. 
-- Make it affordable. 
-- Make it easy for volunteers.
-
-Because ministry is about people—not software.
 
 
 
@@ -61,33 +57,21 @@ That means they solve real problems, support real ministries, and continue to im
 ## Featured Projects
 
 ⚙️ GMC Operations
-The core platform for church administration and ministry management.
-Helping churches organize information, communicate effectively, and reduce administrative workload.
+Church administration, member management, communications, and ministry workflows designed specifically for small and medium-sized churches.
 >
 >• These projects are currently under active development and are being tested in a live church environment. • As they mature, they will be released as open-source resources for churches everywhere. • Thank you for your patience—and thank you for serving your local church.
 <p align="center">— ✦ — </p>
 
 ## 📱 Church SMS Connect - The "ALL-CALL"
 
-Helping churches reach members quickly through simple, reliable text messaging.
-Perfect for:
-
-•	Prayer requests 
-
-•	Event reminders 
-
-•	Emergency notifications 
-
-•	Community announcements 
+Church administration, member management, communications, and ministry workflows designed specifically for small and medium-sized churches.
 
 
-
-  
+ 
 ## 📅 Ministry Calendar
 
 A calendar designed around church life.
 Not just events...
-Ministry.
   <br>
 
 ## 🎈 VBS Manager
@@ -98,8 +82,7 @@ Ministry.
   <br>
 
 ## 🎥 Sunday Service Workflow
-A complete collection of resources for planning and presenting worship services.
-Including:
+Practical tools and documentation that help volunteers confidently prepare every worship service:
 
 •	Presentation templates 
 
@@ -122,7 +105,9 @@ Including:
 
 ## More Than Software
 Not everything here is code.
-Many of the most valuable resources are simple documents created from years of serving churches.
+Many of the most valuable resources are simple documents created from years of serving churches. Software is only part of the solution.
+Clear documentation helps volunteers succeed.
+
 Including:
 
 •	Church Technology Handbook 
@@ -132,8 +117,6 @@ Including:
 •	Volunteer Training Guides 
 
 •	Presentation Templates 
-
-•	Documentation 
 
 •	Best Practices 
 
@@ -154,9 +137,9 @@ If someone serving one Sunday each month can confidently use these tools...
 *Then we've succeeded.*
 
 ## Open Source
-The core projects in this organization are freely available because healthy churches strengthen healthy communities.
-Some future projects, add-ons, or consulting services may help support continued development, but the heart behind this work remains the same:
-Equip churches with practical technology that simply works.
+The core projects in this organization are freely available because healthy churches strengthen healthy communities. Whenever possible, these projects seek to reduce recurring costs while improving ministry effectiveness.
+
+Some future projects or consulting services may help support continued development, but the heart behind this work remains the same: "Equip churches with practical technology that simply works."
 
 ## Why This Matters
 Technology changes every year.
@@ -175,12 +158,12 @@ The mission never does.
 
 ## About
 <img src="https://github.com/code-gmc/code-gmc/blob/main/ProfileWill.jpg?raw=true" 
-     alt="Will, The Code Monkey" 
+     alt="Will •	Servant. Builder. Teacher" 
      width="200" 
      align="left" 
      style="margin-right: 20px; border-radius: 10px;">
 
-Hi, I'm **William** — a retired Project Manager, church technology volunteer, writer, and lifelong student of practical ministry. This organization isn't about creating the biggest church software platform. It's about helping the small and medium-sized churches that faithfully serve their communities every single week.
+Hi, I'm **William** — a retired IT Project Manager, church technology volunteer, writer, and lifelong student of practical ministry. This organization isn't about creating the biggest church software platform. It's about helping the small and medium-sized churches that faithfully serve their communities every single week.
 
 If something here helps your church, then it has already fulfilled its purpose.  
 
