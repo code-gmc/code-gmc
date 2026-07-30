@@ -8,10 +8,7 @@ If you've found your way here, chances are you're serving your church in some wa
 I've been there.
 For many years I've had the privilege of serving churches of many sizes—from a congregation of more than 700 people in Kansas City, Missouri, to the wonderful small-town family at Gillespie Methodist Church. 
 
-Along the way I discovered something important:
-
-Most churches don't need complicated software.
-They need practical tools that quietly support ministry.
+Along the way I discovered something important: Most churches don't need complicated software. They need practical tools that quietly support ministry.
 
 That simple idea became the foundation for everything you'll find here.
 
@@ -19,16 +16,12 @@ That simple idea became the foundation for everything you'll find here.
 ## How it all started
 In 2025, our church was spending about $600 each year on a commercial text messaging service.
 
-I wondered...
+I wondered...  "Could we build something ourselves?"
 
 
-Could we build something ourselves?
+That simple question led to a new church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
 
-
-That simple question led to a Twilio-powered church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
-
-
-What began as a simple church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
+What start as a 'could we church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
 
 
 ## Our Philosophy
@@ -57,7 +50,7 @@ That means they solve real problems, support real ministries, and continue to im
 ## Featured Projects
 
 ⚙️ GMC Operations
-Church administration, member management, communications, and ministry workflows designed specifically for small and medium-sized churches.
+Church administration, bulletin creator, announcements, member management, communications, and ministry workflows designed specifically for small and medium-sized churches.
 >
 >• These projects are currently under active development and are being tested in a live church environment. • As they mature, they will be released as open-source resources for churches everywhere. • Thank you for your patience—and thank you for serving your local church.
 <p align="center">— ✦ — </p>
@@ -84,23 +77,13 @@ Not just events...
 ## 🎥 Sunday Service Workflow
 Practical tools and documentation that help volunteers confidently prepare every worship service:
 
-•	Presentation templates 
+•	Presentation templates    •	Worship planning 
 
-•	Worship planning 
+•	Scripture slides          •	Livestream preparation 
 
-•	Scripture slides 
+•	Audio/visual checklists   •	Volunteer guides 
 
-•	Livestream preparation 
-
-•	Audio/visual checklists 
-
-•	Volunteer guides 
-
-•	Holiday services 
-
-•	Funeral resources 
-
-•	Worship documentation 
+•	Holiday services          •	Funeral resources 
 
 
 ## More Than Software
@@ -110,17 +93,11 @@ Clear documentation helps volunteers succeed.
 
 Including:
 
-•	Church Technology Handbook 
+•	Church Technology Handbook    •	Sunday Morning Checklists 
 
-•	Sunday Morning Checklists 
+•	Volunteer Training Guides     •	Presentation Templates 
 
-•	Volunteer Training Guides 
-
-•	Presentation Templates 
-
-•	Best Practices 
-
-•	Disaster Recovery Planning 
+•	Best Practices                •	Disaster Recovery Planning 
 
 **Sometimes a one-page checklist is more valuable than a thousand lines of code.**
 
@@ -149,7 +126,7 @@ The mission never does.
 >
 >If they give one pastor more time with people instead of paperwork...
 >
->If they help one church reach one more family...
+>If they help one church reach out to one more family...
 
 **Then every hour spent building them has been worthwhile. - "Built in service. Shared with gratitude. Offered for the Church."**
 
