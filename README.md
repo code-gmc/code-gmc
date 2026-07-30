@@ -76,13 +76,18 @@ Not just events...
 ## 🎥 Sunday Service Workflow
 Practical tools and documentation that help volunteers confidently prepare every worship service:
 
-•	Presentation templates    •	Worship planning 
 
-•	Scripture slides          •	Livestream preparation 
+•	Holiday services          
+  •	Funeral resources 
+  
+•	Livestream preparation  
+  •	Worship planning
+  
+•	Scripture slides
+ 
+•	Presentation templates
 
-•	Audio/visual checklists   •	Volunteer guides 
-
-•	Holiday services          •	Funeral resources 
+     Volunteer guides and Audio/visual checklists  
 
 
 ## More Than Software
