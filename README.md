@@ -64,7 +64,7 @@ Church administration, member management, communications, and ministry workflows
 
 ## 📱 Church SMS Connect - The "ALL-CALL"
 
-Church administration, member management, communications, and ministry workflows designed specifically for small and medium-sized churches.
+Twilio-powered church communication system.
 
 
  
