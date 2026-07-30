@@ -97,11 +97,14 @@ Clear documentation helps volunteers succeed.
 
 Including:
 
-•	Church Technology Handbook    •	Sunday Morning Checklists 
+•	Church Technology Handbook    
+•	Sunday Morning Checklists 
 
-•	Volunteer Training Guides     •	Presentation Templates 
+•	Volunteer Training Guides     
+•	Presentation Templates 
 
-•	Best Practices                •	Disaster Recovery Planning 
+•	Best Practices                
+•	Disaster Recovery Planning 
 
 **Sometimes a one-page checklist is more valuable than a thousand lines of code.**
 
