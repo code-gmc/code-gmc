@@ -21,7 +21,7 @@ I wondered...  "Could we build something ourselves?"
 
 That simple question led to a new church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
 
-What started as a 'could we church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
+What began with a simple question—"Could we build something ourselves?"—has grown into a collection of practical software, documentation, workflows, and ministry resources, all developed while serving a real church with real needs.
 
 
 ## Our Philosophy
@@ -44,7 +44,6 @@ https://gmc62033.com
 
 Rather than creating software in isolation, these tools are developed while serving an active local church.
 That means they solve real problems, support real ministries, and continue to improve through everyday use.
-
 
 
 ## Featured Projects
@@ -114,6 +113,8 @@ If someone serving one Sunday each month can confidently use these tools...
 *Then we've succeeded.*
 
 ## Open Source
+>"Built in a local church. Tested in weekly ministry. Shared freely for others to build upon."
+
 The core projects in this organization are freely available because healthy churches strengthen healthy communities. Whenever possible, these projects seek to reduce recurring costs while improving ministry effectiveness.
 
 Some future projects or consulting services may help support continued development, but the heart behind this work remains the same: "Equip churches with practical technology that simply works."
