@@ -21,7 +21,7 @@ I wondered...  "Could we build something ourselves?"
 
 That simple question led to a new church communication system, a membership directory, and eventually the beginning of what has become GMC Operations.
 
-What start as a 'could we church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
+What started as a 'could we church communication project has grown into a collection of practical software, documentation, workflows, and ministry resources—all developed while serving a real church with real needs.
 
 
 ## Our Philosophy
