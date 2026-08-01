@@ -1,5 +1,8 @@
 ﻿# Welcome to GMC Digital Tools ⛪✨code-gmc
 This GitHub organization serves as the public home for GMC Digital Tools, where software, documentation, presentations, workflows, and ministry resources are developed and shared. We believe software is created to help churches serve people—not technology. 
+>
+>• These projects are currently under active development and are being tested in a live church environment. • As they mature, they will be released as open-source resources for churches everywhere. • Thank you for your patience—and thank you for serving your local church.
+<p align="center">— ✦ — </p>
 
 ## Welcome!
 
